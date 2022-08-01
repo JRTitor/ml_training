@@ -104,3 +104,5 @@ sns.lineplot(data=fifa_data)
 <AxesSubplot:xlabel='Date'>
 
 This code shouldn't make sense just yet, and you'll learn more about it in the upcoming tutorials. For now, continue to your first exercise, where you'll get a chance to experiment with the coding environment yourself!
+
+https://www.kaggle.com/code/alexisbcook/hello-seaborn?scriptVersionId=97856319&cellId=1
