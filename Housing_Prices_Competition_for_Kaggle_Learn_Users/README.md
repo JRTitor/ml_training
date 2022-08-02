@@ -1,0 +1,1 @@
+Got 645 place in https://www.kaggle.com/competitions/home-data-for-ml-course/overview 
